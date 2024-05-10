@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c429411.css",
-    "main.js": "/static/js/main.881cf20c.js",
-    "static/js/453.01e79f52.chunk.js": "/static/js/453.01e79f52.chunk.js",
-    "index.html": "/index.html",
-    "main.3c429411.css.map": "/static/css/main.3c429411.css.map",
-    "main.881cf20c.js.map": "/static/js/main.881cf20c.js.map",
-    "453.01e79f52.chunk.js.map": "/static/js/453.01e79f52.chunk.js.map"
+    "main.css": "/exercise_simulator/static/css/main.3c429411.css",
+    "main.js": "/exercise_simulator/static/js/main.ef2df315.js",
+    "static/js/453.01e79f52.chunk.js": "/exercise_simulator/static/js/453.01e79f52.chunk.js",
+    "index.html": "/exercise_simulator/index.html",
+    "main.3c429411.css.map": "/exercise_simulator/static/css/main.3c429411.css.map",
+    "main.ef2df315.js.map": "/exercise_simulator/static/js/main.ef2df315.js.map",
+    "453.01e79f52.chunk.js.map": "/exercise_simulator/static/js/453.01e79f52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c429411.css",
-    "static/js/main.881cf20c.js"
+    "static/js/main.ef2df315.js"
   ]
 }
